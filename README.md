@@ -1,16 +1,11 @@
-# hello_world
+# Flutter Workshop Sample Code for DSC TIME
 
-A new Flutter project.
+If you already clone the project, don't forget to:
 
-## Getting Started
+```flutter get package```
 
-This project is a starting point for a Flutter application.
+to run your project in your laptop/PC
 
-A few resources to get you started if this is your first Flutter project:
+Fetching API from : https://jsonplaceholder.typicode.com/posts
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Happy fun. For learning purposes only.
